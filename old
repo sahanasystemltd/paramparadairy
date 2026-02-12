@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-     <title>A & M Jumbo Bags Ltd.</title>
+     <title>Parampara Dairy Delights Limited</title>
     <meta charset="utf-8">
     <meta name="description" content="Your description">
     <meta name="keywords" content="Your keywords">
@@ -36,8 +36,8 @@
                     </ul>-->
                 </li>
                 <li><a href="about.html">About Us</a></li>
-                <li><a href="product.html">Products</a></li>
-                <li><a href="infrastructure.html">Infrastructure<br>/ Quality QC</a></li>
+                <!--li><a href="product.html">Products</a></li -->
+                <!-- li><a href="infrastructure.html">Infrastructure<br>/ Quality QC</a></li -->
                 <li><a href="investor.html">Investor</a></li>
                 <li><a href="contact.html">Contact Us</a></li>
             </ul>
@@ -51,7 +51,7 @@
     <div class="container_24">
     	<div class="wrapper">
         	<article class="grid_18" style="width:900px;">
-            	<h4 style="color:#25898D;">About Us</h4>
+            	<h4 style="color:#be8d5e;">About Us</h4>
                 
                 <p style="text-align:justify">A & M Jumbo Bags, a Ahmedabad based company has been engaged in the manufacture and sale of various FIBC (Jumbo Bags). <!--The company led under the able guidance of Mr Hitendra Jain, who has with him more than two decades of experience in Jumbo Bag Industry.--> FIBC (Jumbo Bags) manufactured by us are most suitable for packing products like fertilizer, cement, sand, food grains, sugar, cattle feed, fish meal, pulses, spices, dates, agro products, minerals, resin, polymers, rubber and many more.</p>
                
@@ -59,7 +59,7 @@
                 
                 <p style="text-align:justify">Our Competency Lies in Tailor-made customer solutions, Innovative problem solving, Quick and timely deliveries, High flexibility, Large production capacity and Traceability. Reasons for being appreciated among clients more than the competitors are: We provide effective and easy solutions, Have good understanding of client requirements, Quality centric approach, Customization facilities available, Good financial position, Total quality management policies drive our company and A team of dedicated and well experienced people</p>
                 
-               <!-- <p style="text-align:justify">Mr. PRATISH CHIMANLAL SHAH aged 52 years, is the Managing Director of our company. He has done Diploma in Civil Engineering. He is the promoter of our Company since incorporation. He has having effective skills of planning and communication and has vast experience of 17 years in business of FIBC / Big Bags / Jumbo Bags offered to various industries such as chemicals, dyes-intermediates, pharmaceuticals, minerals, rubber, sugar etc. He is the person responsible for overall planning & Management of our Company. He led many new initiatives in A AND M JUMBO BAGS LIMITED and has been key player in growth of company.</p>
+               <!-- <p style="text-align:justify">Mr. PRATISH CHIMANLAL SHAH aged 52 years, is the Managing Director of our company. He has done Diploma in Civil Engineering. He is the promoter of our Company since incorporation. He has having effective skills of planning and communication and has vast experience of 17 years in business of FIBC / Big Bags / Jumbo Bags offered to various industries such as chemicals, dyes-intermediates, pharmaceuticals, minerals, rubber, sugar etc. He is the person responsible for overall planning & Management of our Company. He led many new initiatives in Parampara Dairy Delights Limited and has been key player in growth of company.</p>
 
                 <p style="text-align:justify">Mrs. GITA PARESH PATEL aged 48 years, she has been the promoter of our Company since incorporation. She Supervise the overall functioning of our Company. She has having effective skills of planning and communication and has vast experience of around 7 years in business of FIBC / Big Bags / Jumbo Bags. She is currently responsible for entire operations of the Company including strategic initiatives of our business. </p>
 -->
@@ -86,14 +86,14 @@ He has done BBA from Gujarat University. He is a Member of Audit Committee, Nomi
 	<div class="container_24">
     	<div class="wrapper">
         	<article class="grid_12">
-            	<h6 style="color:#25898D;">Quick Links</h6>
+            	<h6 style="color:#be8d5e;">Quick Links</h6>
                 <div class="wrapper">
                 	<article class="grid_4 alpha">
                     	<ul>
                         	<li><a href="about.html">About Us</a></li>
                         	<li><a href="index.html">Home</a></li>
-                        	<li><a href="product.html">Product</a></li>
-                        	<li><a href="infrastructure.html">Infrastructure / QC</a></li>
+                        	<!-- li><a href="product.html">Product</a></li -->
+                        	<!-- li><a href="infrastructure.html">Infrastructure / QC</a></li -->
                         	
                         </ul>
                     </article>
@@ -106,19 +106,19 @@ He has done BBA from Gujarat University. He is a Member of Audit Committee, Nomi
                             <li><a href="javascript:void(0)">Jumbo Bag</a></li>
                         </ul>
                     </article>-->
-                	<article class="grid_4 omega">
+                	<!-- article class="grid_4 omega">
                     	<ul>
                         	<li><a href="investor.html">Investor</a></li>
                             <li><a href="product.html">Four Loop Bag</a></li>
                             <li><a href="product.html">Jumbo Bag</a></li>
-                            
+
                             <li><a href="product.html">FIBC Bag</a></li>
                         </ul>
-                    </article>
+                    </article -->
                 </div>
             </article>
             <article class="grid_11 prefix_1">
-            	<h6 style="color:#25898D;">Contact Information</h6>
+            	<h6 style="color:#be8d5e;">Contact Information</h6>
                 <div class="wrapper">
                 	<img class="img-indent-r" src="images/map.png" alt="">
                 	<div class="extra-wrap">
